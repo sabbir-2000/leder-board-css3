@@ -121,6 +121,22 @@ hr{
 .fa-clock{
     color: grey;
 }
+
+.topbar{
+    text-align: center;
+    
+}
+
+.topside{
+    background-color: skyblue;
+    padding: 20px;
+    font-family: monospace;
+    font-size: 30px;
+  
+    border-radius: 9px;
+   
+    
+}
 /*----- media queries----- */
 /* mobile devices */
 @media only screen and ( max-width:688px) {
